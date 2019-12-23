@@ -105,7 +105,7 @@ pep8==1.7.1
 perl==0.1
 pexpect==4.5.0
 pickleshare==0.7.4
-Pillow==5.2.0
+Pillow==6.2.0
 pkginfo==1.4.2
 plac==0.9.6
 pluggy==0.6.0
