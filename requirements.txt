@@ -38,7 +38,7 @@ distributed==1.21.8
 docker==3.7.0
 docker-pycreds==0.4.0
 docutils==0.14
-ecdsa==0.13
+ecdsa==0.13.3
 editdistance==0.4
 elmoformanylangs==0.0.2
 en-core-web-sm==2.0.0
