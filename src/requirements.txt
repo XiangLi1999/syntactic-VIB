@@ -4,7 +4,7 @@ elmoformanylangs==0.0.2
 future==0.17.1
 h5py==2.9.0
 matplotlib==2.2.3
-nltk==3.4
+nltk==3.4.5
 numpy==1.15.4
 numpydoc==0.8.0
 overrides==1.9
